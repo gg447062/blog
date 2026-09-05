@@ -1,0 +1,1 @@
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/5031141/original_f5ed6820801af8c82705b646f2aa7420.png?1568603564" alt="3904 Touch Sensor">
