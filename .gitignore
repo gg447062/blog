@@ -11,4 +11,10 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+content/Daily\ Notes/
 .turbo/
+*.pdf
+*.jpg
+*.png
+*.mov
+*.mp4
