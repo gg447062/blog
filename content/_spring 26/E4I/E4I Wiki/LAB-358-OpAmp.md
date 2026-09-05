@@ -1,1 +1,0 @@
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/5192413/original_607c01d4b7ba8ef552bbb8cc72132eb5.png" alt="358 OpAmp">

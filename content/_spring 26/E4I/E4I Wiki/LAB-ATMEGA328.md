@@ -1,1 +1,0 @@
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/5471393/original_71947abc95074ae1cf432d41becc5f9e.png" alt="Arduino - ATMEGA328">

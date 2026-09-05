@@ -1,1 +1,0 @@
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/5346706/original_d322b75691d3cd58c892281ddeece2e5.png" alt="Variable Power Supply">

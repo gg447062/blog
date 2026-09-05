@@ -1,4 +1,0 @@
----
-title: home
----
-[[all classes]]
