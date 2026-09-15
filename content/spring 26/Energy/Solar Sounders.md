@@ -72,7 +72,7 @@ astable mutlivibrator frequency table from the same website
 ![[Screenshot 2026-04-18 at 5.13.31 PM.webp|683]]
 
 
-#solar-final #synth #solar-sounder 
+
 
 
 [[Screenshot 2026-04-22 at 11.42.35 PM.webp]]
@@ -84,3 +84,6 @@ I added some filters to the circuit, i used this handy calculator on [digikey](h
 amplifier circuit
 
 ![[Screenshot 2026-05-04 at 11.52.31 AM.webp]]
+
+
+#solar #solar-sounder #solar-final #synth 

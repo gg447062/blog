@@ -1,3 +1,6 @@
+
+**reading**
+
 THE FUTURE OF MUSIC: CREDO -  John Cage, 1937
 
 **"Wherever we are, what we hear is mostly noise. When we ignore it, it disturbs us. When we listen to it, we find it fascinating."**

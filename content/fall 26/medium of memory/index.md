@@ -1,3 +1,3 @@
 
-[[week 1 homework]]
+[[fall 26/medium of memory/week 1]]
 

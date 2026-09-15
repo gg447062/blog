@@ -6,4 +6,4 @@ amazing synth wizard
 made super cool solar instruments, very inspiring
 also a lover of the vactrol
 
-#synth #solar-final #solar-sounder
+#synth #solar-final #solar-sounder #solar

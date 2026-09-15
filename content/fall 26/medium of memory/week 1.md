@@ -1,6 +1,8 @@
 ---
 draft: "true"
 ---
+
+## homework
 ### first memory
 one of my first memories is of the basement in the house where i lived for the first few years of my life. the room is illuminated by the cozy light of a lamp behind me to my right. where i'm sitting there is a couch and a tv and the wall to my left. to my right in front of me are the stairs going up to the kitchen and beyond that is a nebulous area that i don't remember well but i have a vague sensation that it was an open carpeted area not too much bigger than the section i am in. 
 
