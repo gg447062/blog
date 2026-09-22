@@ -7,5 +7,5 @@
 **you are**: are a classically trained musician
 
 **initial idea:**
-orbs live in a world with no acoustic sound, they listen to music in a solo situation, they go to listen to music in rooms that have surround sound setups, a sensor reads images and converts it into music
+orbs live in a world with no acoustic sound, they listen to music in a solo situation, they go to listen to music in rooms that have surround sound setups, a sensor reads images/faces and converts it into music
 
