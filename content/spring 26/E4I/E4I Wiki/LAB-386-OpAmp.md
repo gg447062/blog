@@ -1,0 +1,1 @@
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/5354461/original_2c07a9c3e60c6f2bac3a369f8730bc2c.png" alt="386 OpAmp">

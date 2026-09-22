@@ -1,0 +1,6 @@
+current review
+
+this class is a bit disappointing. john henry is amazing and i'm so glad i took the class, but the class felt too advanced for people right out of icm to get much done in seven weeks. we have to spend so much time spent making sure people have their git repo set up right etc, that when we get to the time for the interesting parts of the lecture the class is nearing its end and the lectures feel rushed. I think it would help if we didn't use p5 editor and only focused on git. keeping track of them both is hard especially if you're new to git. i think using version control and having a deployed version of a sketch is a valuable skill and i think including p5 confuses the matter.
+
+
+a game played on two screens where each player is in a closed room with a bouncing ball that they want to shoot in the enemy's goal through a portal they can shoot on the wall. the ball moves faster and faster each time it goes through the portal and if a player misses a portal the ball will bounce around the room until a new portal is made for it. if you get hit with the ball you lose 5 points
