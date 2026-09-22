@@ -1,1 +1,0 @@
-[[fall 26/nime/class 1|class 1]]
