@@ -10,7 +10,12 @@
 - http://www.vk2zay.net/article/196 (sawtooth generator)
 - https://www.doepfer.de/a100_man/a100m_e.htm
 - https://doepfer.de/DIY/a100_diy.htm
-- https://www.parts-express.com/
+- https://note.com/solder_state
+- https://modularforthemasses.blogspot.com/
+- https://hackaday.com/tag/logic-noise/
+- https://sandelinos.me/diy/
+- https://lookmumnocomputer.discourse.group/t/verified-stripboard-layouts/81
+- https://electricdruid.net/category/synth-diy/
 
 
 #synth 

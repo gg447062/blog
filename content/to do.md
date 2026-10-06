@@ -1,0 +1,63 @@
+---
+draft: "true"
+---
+**hypercinema ga**
+- [x] read the the reading responses
+- [ ] put students into groups of 4
+- [ ] get 4 tripods, ideally with level, and 4 phone adaptors for tripods
+- [ ] email students about midterm proposal
+
+**extra curricular**
+- [x] move arsun tracks to mpc
+- [x] watch tia rosa video takes
+- [x] begin to edit tia rosa video
+
+**homework**
+- [ ] pachinko
+	- [x] test motor [info](https://www.iotprojectkit.com/components/stepper-motors/identify/8-wire/)
+	- [x] test new motor driver
+		- [x] solder pins
+		- [x] follow hookup guide linked in [[pachinko composer]] notes
+		- [ ] talk to phil or ian about what to do about motor
+		- [ ] add code and mini switch for positioning
+	- [ ] attach supports to base
+	- [ ] use forstner bit to make space for nails in extra square of plywood
+	- [ ] solder longer wires to piezos, attach to platform
+	- [ ] draw out nail pattern
+	- [ ] solder wires to nails, attach to platform
+	- [ ] build circuits
+		- [ ] oscillator (358?)
+		- [ ] lfo
+		- [ ] env gen
+		- [ ] vca
+		- [ ] piezo pre amp
+		- [ ] summing mixer
+	- [x] attach mounts to box
+	- [x] attach bearings to supports
+	- [x] attach shaft to box
+- [ ] nime reading
+	- [x] 1
+	- [ ] 2
+	- [ ] 3
+- [ ] nime build
+	- [ ] delay
+	- [ ] better vca
+	- [ ] mixer
+	- [ ] piezos
+	- [ ] distortion
+	- [ ] sequencer?
+- [ ] automatons final work
+	- [x] mechanism 1 image scroll
+	- [ ] mechanism 2 buzzer thing
+	- [ ] mechanism 3 antenna cam
+	- [ ] gears
+- [x] networks reading
+	- [ ] wapo one
+- [ ] thesis research
+- [ ] thesis office hours
+	- [x] luisa
+	- [x] sarah
+	- [ ] mimi
+	- [ ] meghna
+	- [ ] prisha
+- [ ] emp listening

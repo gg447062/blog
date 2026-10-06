@@ -1,7 +1,7 @@
 
 
 [tayda](https://www.taydaelectronics.com/100k-ohm-trimmer-potentiometer-cermet-25-turns-3296w.html)
-
+https://www.parts-express.com/
 [electronix express](https://www.elexp.com/)
 
 [prototyping templates](https://www.elexp.com/collections/prototyping-templates)

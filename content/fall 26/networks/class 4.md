@@ -1,0 +1,8 @@
+
+**Reading**
+
+in the [reading](https://www.goldmansachs.com/what-we-do/goldman-sachs-global-institute/articles/smart-demand-management-can-forestall-the-ai-energy-crisis) on slack capacity on the us power grid i noticed something interesting, albeit unrelated to the actual point of the article. they mention that ai model inferences take more time to load than a traditional web page because of computational demands. the implication is that users are more willing to wait for a llm than a traditional web page. it's interesting that this particular aspect of llm use begets more patience from the user, whereas in general the effect of ai has to my mind made people more impatient and unwilling to deal with frustration or roadblocks.
+
+that aside, i did find this interesting. even though we learned a bit about this in energy, i was still surprised to learn about the excess slack capacity on the grid most of the time. i'm a little confused about how datacenters using the excess energy produced by the grid counts as 'unlocking massive capacity' but i'm not sure if that is because i don't understand some technical parts about the power grid.
+
+also at the end, the little mention of china as a energy leader with which the u.s. must compete is something i've been hearing more often. it seems like that is a new argument for green/renewable energy that plays on nationalism and national security over climate change worries. 
