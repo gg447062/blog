@@ -16,6 +16,7 @@
 - https://sandelinos.me/diy/
 - https://lookmumnocomputer.discourse.group/t/verified-stripboard-layouts/81
 - https://electricdruid.net/category/synth-diy/
+- http://www.all-electric.com/b&c.html
 
 
 #synth 
