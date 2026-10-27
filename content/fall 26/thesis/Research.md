@@ -1,4 +1,10 @@
 
+10/21
+
+i had office hours with luisa, sarah, and sharleen, all very helpful. i also applied some of the ideas from the book *handmade electronic music* to a project for nime, a piece in a gallery show i participated in, as well as some experiments. 
+
+all this to say, i'm not necessarily any closer to a concrete idea. i'm still interested in the concept of reuse and recycling materials and ideas, as well as the concept of 'maintenance art' as introduced to me by sarah. 
+
 **10/05**
 
 a couple weeks ago in on becoming we had a discussion around finding the root of an idea or an interest and i picked the one i discussed in class based on how much it made me angry. tanika said this is an acceptable motivator for interest in a topic. i feel angry about henry ford. he was a champion of many of the aspects of this country that i dislike. overproduction, overconsumption, excess waste, lack of widespread good public transportation, dominance of the car, dominance of oil and gas industries, resultant pollution and climate change, etc. 

@@ -1,0 +1,24 @@
+in class, we installed nginx and began configuring it to serve a custom site. i got it installed no problem, but then my droplet's ip was giving me grief. it seems like it was previously connected to a site that was associated with malware and phishing. my terminal wouldn't allow me to paste the ip address from digital ocean and i couldn't access my site on nyu's network. i learned that i could take a snapshot of my droplet and create a new droplet with a new ip from that snapshot, but out of curiosity and civic duty i opened a support ticket with digital ocean in order to report this issue. after doing that i used the droplet snapshot to create a new droplet with a new ip address, which resolved my security problems.
+![[class 7-1792955859878.webp|269]]
+![[class 7-1792955855892.webp|598]]
+
+now that those issues were secure, i continued getting my nginx setup figured out. i made a separate folder under `www` called `undnet` that in turn contained `html`, to which i pointed the root setting of the nginx config file. there i got the `index.html` set up to my liking.
+![[class 7-1792955868092.webp|600]]
+i then went ahead and made a folder in my `www/undnet` folder called `js`, where i installed npm and used it to install express. i then created a `server.js` file and set it up to listen on port 3000. i then updated my ufw settings per the instructions for setting up reverse proxies on the networks site, and updated my nginx config with a location for `/garden`. once i had that set up, i was able to access the server at `my-ip/garden`
+![[class 7-1792955870972.webp|601]]
+the main issue i had was that i couldn't figure out how to keep the node server running and logout of my virtual host. once node was running, it seemed to take over my terminal and i couldn't do anything outside of node. i looked it up and found an answer [here](https://stackoverflow.com/a/11856575) that said to use: `nohup node server.js > /dev/null 2>&1 &`
+
+1. `nohup` means: _Do not terminate this process even when the stty is cut off._
+2. `> /dev/null` means: _stdout goes to /dev/null (which is a dummy device that does not record any output)._
+3. `2>&1` means: _stderr also goes to the stdout (which is already redirected to `/dev/null`). You may replace &1 with a file path to keep a log of errors, e.g.: `2>/tmp/myLog`_
+4. `&` at the end means: _run this command as a background task._
+
+then to end the background process, i found out that 'if you don't know the process ids and it might run various commands within a shell (or a loop), you can run `jobs -l` to list jobs and PIDs, then `kill` them.' [source](https://stackoverflow.com/a/34735097)
+
+--- 
+
+on sunday i checked the access logs and saw that there had been hundreds if not thousands of requests to my nginx server since it was deployed on tuesday. there were a lot of random requests from random ip addresses, but then there would be a whole series of requests from the same ip address looking for database or admin secrets from files like `/db/dbadmin/index.php`, `secrets.json`, `server.key`, `.aws/credentials`, `security.txt` and so on and so forth. a few of the requests had names either as part of the user agent or listed right after. some requests were from something called 'go web pentest tool', and some were from the yokohama institue of information security. when i ran `whois`on the ips  who didn't have the names in the user agent,  i found that one was from KORNET, a korean telecom company providing enterprise internet services, and one was from a british company called unmanaged ltd, providing hosting and data processing services. i could also see my requests to my `/garden` endpoint while testing out my `express` routing and i could see that even during and after that time, which was right before checking out the access logs, other actors had been trying to access my server.
+
+from what i can tell, many of these weren't necessarily malicious, in particular the institutional ones, but they were definitely looking for juicy compromised data. in the case of the yokohama institue of information security, i assume this was done in the interest of research, but i'm not sure what they would do if they did find any security issues on my site. i'm certainly glad i don't have any of this kind of data on my site in any case. it was pretty shocking to see them looking for such obviously named and unprotected database and admin files because it indicates that those types of files are commonly found using those same requests. i guess not everyone uses best security practices
+
+![[class 7-1793059929549.webp|461x249]]![[class 7-1793059929552.webp|451x225]]![[class 7-1793059929551.webp|465x230]]![[class 7-1793059929553.webp|466x214]]
