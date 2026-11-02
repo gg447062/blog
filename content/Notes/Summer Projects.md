@@ -3,7 +3,7 @@ draft: "true"
 ---
 - sound sculpture
 	- humdinger
-	- pachinko composer (tilting panel with nails as tilt switch a la nicolas collins)
+	- [x] pachinko composer (tilting panel with nails as tilt switch a la nicolas collins)
 	- new years noisemaker with mute
 
 - ray wilson kits

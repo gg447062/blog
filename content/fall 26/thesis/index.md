@@ -1,1 +1,3 @@
 [[research]]
+[[readings]]
+[[people+groups]]

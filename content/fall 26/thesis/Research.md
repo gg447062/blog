@@ -1,4 +1,7 @@
 
+10/27
+moved all readings to [[readings]] note
+
 10/21
 
 i had office hours with luisa, sarah, and sharleen, all very helpful. i also applied some of the ideas from the book *handmade electronic music* to a project for nime, a piece in a gallery show i participated in, as well as some experiments. 
@@ -30,6 +33,7 @@ http://remindedbytheinstruments.info/book.html
 readings
 https://danielmkarlsson.com/map/
 https://www.marxists.org/archive/parenti/1995/Imperialism-101.htm
+https://www.plunderphonics.com/
 
 mimi - current work
 

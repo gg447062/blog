@@ -1,1 +1,6 @@
 [[fall 26/networks/class 1|class 1]]
+[[fall 26/networks/class 2|class 2]]
+[[fall 26/networks/class 4|class 4]]
+[[fall 26/networks/class 5|class 5]]
+[[fall 26/networks/class 7|class 7]]
+[[extra readings + resources]]

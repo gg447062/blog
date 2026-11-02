@@ -3,8 +3,35 @@ draft: "true"
 ---
 play https://nartier.itch.io/walkable-cities
 
+morning
+- [x] nime final proposal w/ prisha
+- [x] work on that shit
+- [x] do networksassistant stuff starting at the latest at 11:30 til meeting or at least some progress is made
+
+afternoon
+- [x] after network assistant meeting's done, go to meet joy and alua
+- [x] do the networks presentation prep until like 2:30
+- [ ] do some nime explorations until class
+	- [ ] use the sequencer to trigger the env generator
+
+evening
+- [ ] eat dinner
+- [ ] shop shift
+- [ ] print yatem frames i'm going to draw on/extend
+- [ ] make lightbox?
+
 **hypercinema ga**
-- [ ] 
+- [ ] look at syllabus to see which class looks interesting to facilitate
+
+**networks assistant**
+- [ ] copy sai's function over to the ima_dev site
+- [ ] adjust it to look for capstone test
+- [ ] add other filters
+	- [ ] 'capstone'
+	- [ ] year
+	- [ ] advisor
+	- [ ] theme
+	- [ ] type
 
 **extra curricular**
 - [x] pachinko
@@ -52,35 +79,57 @@ play https://nartier.itch.io/walkable-cities
 	- [x] attach mounts to box
 	- [x] attach bearings to supports
 	- [x] attach shaft to box
+- [ ] yatem video
+	- [ ] extend the tunnel sequence
+	- [ ] add exit into inverted world
+	- [ ] add music notes
+	- [ ] add keyboard
 
 **homework**
 
-- [ ] nime reading
-	- [x] 1
-	- [ ] 2
-	- [ ] 3
-- [ ] nime build
+- [ ] nime 
+	- [ ] final proposal
 	- [ ] delay
 	- [x] better vca
 	- [ ] matrix mixer
-	- [x] piezos
+	- [ ] envelope generator for piezo
 	- [x] distortion
-	- [ ] sequencer?
-- [ ] automatons final work
+	- [ ] looper
+	- [ ] sequencer
+		- [x] gate
+		- [x] leds
+		- [ ] pots
+		- [ ] switches
+- [x] automatons final work
 	- [x] mechanism 1 image scroll
 	- [x] rice barrel - inner 41, outer 44
 	- [x] mechanism 3 antenna cam
-	- [ ] faceplate
-	- [ ] antenna cover
-	- [ ] antenna
+	- [x] faceplate
+	- [x] antenna cover
+	- [x] antenna
 	- [x] gears
-- [x] networks reading
-	- [x] wapo one
+- [ ] networks 
+	- [x] isoc research
+		- [ ] [[ISOC presentation]]
+	- [ ] update slides
 - [ ] thesis research
+	- [ ] make light to sound circuit
+		- [ ] one with photoresistor-on-screen
+			- [ ] bring some ldrs to school
+		- [x] one with phototransistor pure sound
+		- [ ] use audio jacks from junk shelf
+	- [ ] soft circuit?
+	- [ ]  piezo buzzer with 40106
+	- [x] remove pots from big circuit board for use in other circuits
 - [ ] thesis office hours
 	- [x] luisa
 	- [x] sarah
+	- [ ] david
 	- [ ] mimi
 	- [ ] meghna
-	- [ ] prisha
-- [ ] emp listening
+	- [x] prisha
+- [ ] emp composition
+	- [ ] chance?
+	- [ ] rules?
+	- [ ] graphic score?
+	- [ ] decide on arrangement
