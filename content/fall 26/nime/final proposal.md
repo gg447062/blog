@@ -25,6 +25,7 @@
 
 - two (or more) oscillators and rattle
 	- try out different oscillator circuits
+- integrate delay
 - add filter
 - process rattle more
 	- envelope follower from piezo in addition to sound itself
@@ -36,6 +37,9 @@
 	- build custom looper into instrument
 	- add noise box??
 
+delay schematic
+![[final proposal-1793650603197.webp]]
+
 filter circuit
 ![[final proposal-1793650376374.webp]]
 
@@ -45,7 +49,8 @@ envelope follower schematic
 sequencer breadboarded 
 ![[final proposal-1793649607936.webp]]
 
-looper patch![[final proposal-1793650025583.webp]]
+looper patch
+![[final proposal-1793650025583.webp]]
 
 ---
 
