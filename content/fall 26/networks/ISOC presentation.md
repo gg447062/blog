@@ -21,7 +21,7 @@ from their articles of incorporation (1992):
 
 (Articles of incorporation is a public document that a corporation files with the Secretary of State in the state it is registering in)
 
-The purpose or purposes for which the corporation is organized are as follows:To be a non-profit corporation (without capital stock), which shall be operated exclusively for educational, charitable and scientific purposes. Such educational, charitable, and scientific purposes shall include carrying on activities:
+The purpose or purposes for which the corporation is organized are as follows: To be a non-profit corporation (without capital stock), which shall be operated exclusively for educational, charitable and scientific purposes. Such educational, charitable, and scientific purposes shall include carrying on activities:
 
 - To facilitate and support the technical evolution of the Internet as a research and education infrastructure, and to stimulate the involvement of the scientific community, industry, government and others in the evolution of the Internet;
 - To educate the scientific community, industry and the public at large concerning the technology, use and application of the Internet;

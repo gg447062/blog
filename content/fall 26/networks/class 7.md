@@ -22,3 +22,5 @@ on sunday i checked the access logs and saw that there had been hundreds if not 
 from what i can tell, many of these weren't necessarily malicious, in particular the institutional ones, but they were definitely looking for juicy compromised data. in the case of the yokohama institue of information security, i assume this was done in the interest of research, but i'm not sure what they would do if they did find any security issues on my site. i'm certainly glad i don't have any of this kind of data on my site in any case. it was pretty shocking to see them looking for such obviously named and unprotected database and admin files because it indicates that those types of files are commonly found using those same requests. i guess not everyone uses best security practices
 
 ![[class 7-1793059929549.webp|461x249]]![[class 7-1793059929552.webp|451x225]]![[class 7-1793059929551.webp|465x230]]![[class 7-1793059929553.webp|466x214]]
+
+#nginx 

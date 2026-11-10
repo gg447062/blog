@@ -1,33 +1,22 @@
 ---
 draft: "true"
 ---
+apply? https://currentsnewmedia.org/submission-guidelines-2027/
 play https://nartier.itch.io/walkable-cities
+read https://canmom.art/crit/baru/tyrant-7-butchering
 
-morning
-- [x] nime final proposal w/ prisha
-- [x] work on that shit
-- [x] do networksassistant stuff starting at the latest at 11:30 til meeting or at least some progress is made
-
-afternoon
-- [x] after network assistant meeting's done, go to meet joy and alua
-- [x] do the networks presentation prep until like 2:30
-- [ ] do some nime explorations until class
-	- [ ] use the sequencer to trigger the env generator
-
-evening
-- [ ] eat dinner
-- [ ] shop shift
-- [ ] print yatem frames i'm going to draw on/extend
-- [ ] make lightbox?
 
 **hypercinema ga**
-- [ ] look at syllabus to see which class looks interesting to facilitate
+- [x] look at syllabus to see which class looks interesting to facilitate
+- [x] make groups of four
+- [x] talk to marlon about vr apps on headsets, ar stuff on ipads
+- [x] ask noah about games on hyperlab computers
 
 **networks assistant**
-- [ ] copy sai's function over to the ima_dev site
-- [ ] adjust it to look for capstone test
+- [x] copy sai's function over to the ima_dev site
+- [x] adjust it to look for capstone test
 - [ ] add other filters
-	- [ ] 'capstone'
+	- [ ] capstone
 	- [ ] year
 	- [ ] advisor
 	- [ ] theme
@@ -88,14 +77,20 @@ evening
 **homework**
 
 - [ ] nime 
-	- [ ] final proposal
-	- [ ] delay
+	- [x] final proposal
+	- [ ] breadboard
+		- [ ] env follower
+		- [ ] 358 oscillator
+		- [ ] delay
+		- [ ] vca v2
+		- [ ] looper?
+	- [ ] solder
+		- [ ] env generator
+		- [ ] oscillator
 	- [x] better vca
-	- [ ] matrix mixer
-	- [ ] envelope generator for piezo
 	- [x] distortion
 	- [ ] looper
-	- [ ] sequencer
+	- [x] sequencer
 		- [x] gate
 		- [x] leds
 		- [ ] pots
@@ -110,8 +105,8 @@ evening
 	- [x] gears
 - [ ] networks 
 	- [x] isoc research
-		- [ ] [[ISOC presentation]]
-	- [ ] update slides
+		- [x] [[ISOC presentation]]
+	- [x] update slides
 - [ ] thesis research
 	- [ ] make light to sound circuit
 		- [ ] one with photoresistor-on-screen
