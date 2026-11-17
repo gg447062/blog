@@ -7,20 +7,16 @@ read https://canmom.art/crit/baru/tyrant-7-butchering
 
 
 **hypercinema ga**
-- [x] look at syllabus to see which class looks interesting to facilitate
-- [x] make groups of four
-- [x] talk to marlon about vr apps on headsets, ar stuff on ipads
-- [x] ask noah about games on hyperlab computers
+- [ ] 3 projectors
+- [ ] 3 tripods
 
 **networks assistant**
-- [x] copy sai's function over to the ima_dev site
-- [x] adjust it to look for capstone test
+
 - [ ] add other filters
 	- [ ] capstone
 	- [ ] year
 	- [ ] advisor
-	- [ ] theme
-	- [ ] type
+	- [x] tag
 
 **extra curricular**
 - [x] pachinko
