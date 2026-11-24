@@ -18,6 +18,8 @@
 - https://electricdruid.net/category/synth-diy/
 - http://www.all-electric.com/b&c.html
 - https://github.com/elkayem/midi2cv
+- https://modularsynthesis.com/
+- http://www.sdiy.org/rfeng/lunetta.html
 
 
 #synth 

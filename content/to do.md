@@ -7,8 +7,12 @@ read https://canmom.art/crit/baru/tyrant-7-butchering
 
 
 **hypercinema ga**
-- [ ] 3 projectors
-- [ ] 3 tripods
+- [ ] immersive storytelling for real and imagined worlds - look for user flow related info
+- [ ] marrying narrative to the design of the piece
+- [ ] what does the narrative want the form to look like
+- [ ] CONTENT + FORM
+	- [ ] what is your voice??
+- [ ] what does one form allow you to do that the other forms do not?
 
 **networks assistant**
 
