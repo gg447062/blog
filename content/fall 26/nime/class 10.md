@@ -1,5 +1,10 @@
 i made the nime poster this week, with encouragement from emilia and design help from alua.
 
+the poster in question:
+![[class 10-1795550686817.webp]]
+
+some color notes for the above poster:
+
 	poster duotone green: rgb(163,223,0)
 	poster duotone pink: rgb(206,84,224)
 
